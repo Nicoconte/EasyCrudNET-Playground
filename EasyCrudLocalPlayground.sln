@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCrudLocalPlayground", "EasyCrudLocalPlayground.csproj", "{A766405B-99FE-45A0-9244-E6F3FD603CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A766405B-99FE-45A0-9244-E6F3FD603CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A766405B-99FE-45A0-9244-E6F3FD603CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A766405B-99FE-45A0-9244-E6F3FD603CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A766405B-99FE-45A0-9244-E6F3FD603CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {959B2034-4CF3-4AF9-9326-8DDE607FA465}
+	EndGlobalSection
+EndGlobal
